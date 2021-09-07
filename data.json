@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "angular/angular-cli",
+    "stargazers_count": 24784,
+    "open_issues_count": 276,
+    "forks_count": 11461
+  },
+  {
     "full_name": "angular/angular",
     "stargazers_count": 76299,
-    "open_issues_count": 1963,
-    "forks_count": 19983
+    "open_issues_count": 1964,
+    "forks_count": 19984
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
@@ -14,7 +20,7 @@
   {
     "full_name": "storybookjs/storybook",
     "stargazers_count": 64525,
-    "open_issues_count": 1396,
+    "open_issues_count": 1397,
     "forks_count": 6507
   }
 ]
