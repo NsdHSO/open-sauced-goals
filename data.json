@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "ionic-team/ionic-framework",
+    "stargazers_count": 45219,
+    "open_issues_count": 706,
+    "forks_count": 13417
+  },
+  {
     "full_name": "angular/angular",
-    "stargazers_count": 76346,
-    "open_issues_count": 1941,
-    "forks_count": 19999
+    "stargazers_count": 76355,
+    "open_issues_count": 1944,
+    "forks_count": 20007
   }
 ]
